@@ -1,0 +1,32 @@
+_repo: Cham-et-Japhet-ou-De-l--migration-des-n-gres-chez-les-blancs-consid-r-e-comme-moyen-provident__15459
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chancel, A. de (Ausone)
+    aliases:
+    - De Chancel, A. (Ausone)
+    - Chancel, Ausone de
+    gutenberg_agent_id: '6070'
+    url: http://www.gutenberg.org/2009/agents/6070
+description: ''
+gutenberg_bookshelf:
+- FR Politique
+- Slavery
+gutenberg_issued: '2005-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15459'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GN'
+- !lcsh 'Black race'
+- !lcsh 'Algeria -- Colonization'
+title: Cham et Japhet, ou De l'émigration des nègres chez les blancs considérée comme
+  moyen providentiel de régénérer la race nègre et de civiliser l'Afrique intérieure.
+url: http://www.gutenberg.org/ebooks/15459
